@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Kushagra
 
-<!--
-**kushagra-4263/kushagra-4263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA (AI/ML) Student
+🚀 Aspiring AI Developer & Future SaaS Founder
+💡 Passionate about building real-world tech solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔭 Currently working on **Computer Vision projects**
+* 🌱 Learning **Machine Learning & AI Development**
+* 🎯 Goal: Build scalable AI-based SaaS products
+* ⚡ Focused on growth, not just theory
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Python
+* 🤖 Machine Learning
+* 👁️ OpenCV
+* 📊 Data Analysis
+* 🔧 Git & GitHub
+
+---
+
+## 📌 Projects
+
+* 👁️ Eye Blink Detection System
+* 📊 ML Models (Regression, Classification)
+* 🧪 MCA Practical Experiments
+
+---
+
+## 📈 Goals
+
+* 🚀 Build AI SaaS Product
+* 📢 Grow Tech + Education Platform
+* 💰 Achieve Financial Independence
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🔗 LinkedIn: (add later)
