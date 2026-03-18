@@ -43,5 +43,6 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 🔗 LinkedIn: (add later)
+* 📧 Email: [kushagra.4263@gmail.com](mailto:kushagra.4263@gmail.com)
+* 🔗 LinkedIn: (www.linkedin.com/in/
+kushagra-mishra-ai)
